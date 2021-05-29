@@ -1,7 +1,7 @@
 import math
 print('\n' + '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
 print('\n' + 'CAESAR CIPHER GENERATION TOOL - IGSR - 1404709 - Spring 2021')
-print('\n' + '        Prepared by ahmedhefny@alexu.edu.eg                 ')
+print('\n' + '        Prepared by ahmedhefny@************                 ')
 print('\n' + '                 Version 2.0                                ')
 print('\n' + '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
 menu_string = '\n' + 'Please select the required operation:' + '\n' + \
